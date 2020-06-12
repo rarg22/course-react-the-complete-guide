@@ -1,0 +1,13 @@
+.UserInput {
+    margin: 0 auto;
+    width: 100%;
+    margin: 3px auto;
+    border: 1px solid #cccccc;
+    box-shadow: 0 2px 3px #cccccc;
+    padding: 10px;
+}
+
+.UserInputCard {
+    margin: 0 auto;
+    width: 20%;
+}
